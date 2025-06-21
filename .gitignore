@@ -2,11 +2,4 @@
 Textures/*.xcf
 Textures/*.xcf~
 
-## Ignore backup/temp files
-#*~
-#*.bak
-#*.tmp
-#
-## Ignore macOS/Windows junk
-#.DS_Store
-#Thumbs.db
+#If you would like access to those files hmu on github i guess.
