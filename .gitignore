@@ -1,5 +1,6 @@
 # Ignore GIMP source files
 Textures/*.xcf
 Textures/*.xcf~
-
 #If you would like access to those files hmu on github i guess.
+
+.idea/
