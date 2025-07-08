@@ -1,0 +1,8 @@
+## Interface: 40400
+## Title: Masque: |cff66ccffSnugUI|r
+## Notes: A custom skin for Masque to match SnugUI.
+## Author: Snugglelumps
+## Version: 1.2
+## RequiredDeps: Masque
+
+Masque_SnugUI.lua

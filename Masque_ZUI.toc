@@ -1,8 +1,0 @@
-## Interface: 100207
-## Title: Masque: |cff66ccffZUI|r
-## Notes: A custom skin for Masque to match ZUI.
-## Author: Snugglelumps
-## Version: 1.1
-## RequiredDeps: Masque
-
-Masque_ZUI.lua

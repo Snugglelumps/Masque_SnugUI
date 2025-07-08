@@ -1,18 +1,18 @@
 local MSQ = LibStub("Masque", true)
 if not MSQ then return end
 
-local GetAddOnMetadata = GetAddOnMetadata or (C_AddOns and C_AddOns.GetAddOnMetadata)
+--local GetAddOnMetadata = GetAddOnMetadata or (C_AddOns and C_AddOns.GetAddOnMetadata)
 
-MSQ:AddSkin("ZUI", {
-    Author = "YourName",
-    Version = "1.1",
+MSQ:AddSkin("SnugUI", {
+    Author = "Snugglelumps",
+    Version = "1.2",
     Shape = "Square",
 
     Backdrop = {
 		Width = 34,
 		Height = 34,
-		Color = {0, 0, 0, 0.4},
-		Texture = [[Interface\AddOns\Masque_ZUI\Textures\Backdrop]],
+		Color = {0, 0, 0, 0.3},
+		Texture = [[Interface\AddOns\Masque_SnugUI\Textures\Backdrop]],
     },
     Icon = {
         Width = 34,
@@ -23,7 +23,7 @@ MSQ:AddSkin("ZUI", {
 		Width = 35,
 		Height = 35,
 		Color = {0, 0, 0, 1},
-		Texture = [[Interface\AddOns\Masque_ZUI\Textures\Border]],
+		Texture = [[Interface\AddOns\Masque_SnugUI\Textures\Border]],
         --Texture = [[Interface\Buttons\WHITE8x8]],
 	},
 
@@ -42,14 +42,14 @@ MSQ:AddSkin("ZUI", {
 		BlendMode = 'BLEND',
         DrawLayer = 'HIGHLIGHT',
 		Color = {212/255, 175/255, 55/255, 1},
-		Texture = [[Interface\AddOns\Masque_ZUI\Textures\Highlight2]],
+		Texture = [[Interface\AddOns\Masque_SnugUI\Textures\Highlight2]],
 	},
     Pushed = {
 		Width = 35,
 		Height = 35,
 		Color = {0, 200/255, 1, 0.5},
 		BlendMode = 'BLEND',
-		Texture = [[Interface\AddOns\Masque_ZUI\Textures\Press]],
+		Texture = [[Interface\AddOns\Masque_SnugUI\Textures\Press]],
 	},
      HotKey = {
         Width = 34,
